@@ -1,0 +1,26 @@
+header {
+    background-color: #13121a;
+    color: #ecdada;
+    text-align: center;
+    padding: 1px 0;
+}
+
+header img {
+    width: 110px; /* تعديل حجم الشعار حسب الحاجة */
+    height: auto;
+}
+
+nav {
+    /* تنسيق قائمة التنقل هنا */
+}
+
+main {
+    /* تنسيق المحتوى الرئيسي للصفحة هنا */
+}
+
+footer {
+    background-color: #c90303;
+    color: #fff;
+    text-align: center;
+    padding: 2px 0;
+}

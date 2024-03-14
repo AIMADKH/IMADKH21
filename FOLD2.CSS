@@ -1,0 +1,19 @@
+header nav ul {
+    list-style-type: none; /* إزالة نقاط القائمة */
+    padding: 10;
+    margin: 10;
+}
+
+header nav ul li {
+    display: line; /* عرض العناصر جنبًا إلى جنب */
+    margin-right: 30px; /* تباعد بين العناصر */
+}
+
+header nav ul li a {
+    text-decoration: rgb(78, 78, 1); /* إزالة تأثير الزخرفة للروابط */
+    color: #333; /* لون الروابط */
+}
+
+header nav ul li a:hover {
+    color: #666; /* لون الروابط عند التحويم عليها */
+}
